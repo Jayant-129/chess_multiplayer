@@ -7,7 +7,7 @@
     "lint": "turbo run lint",
     "lint:fix": "turbo lint:fix",
     "format": "prettier --write \"**/*.{ts,tsx,md}\"",
-    "prepare": "husky"
+    "prepare": "husky",
      "lint-staged": "lint-staged"
   },
   "devDependencies": {
